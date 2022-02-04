@@ -1,0 +1,10 @@
+com/hasanali/survivorbird/R.java
+ com.hasanali.survivorbird.R
+ com.hasanali.survivorbird.R$color
+ com.hasanali.survivorbird.R$drawable
+ com.hasanali.survivorbird.R$string
+ com.hasanali.survivorbird.R$style
+com/hasanali/survivorbird/BuildConfig.java
+ com.hasanali.survivorbird.BuildConfig
+com/hasanali/survivorbird/AndroidLauncher.java
+ com.hasanali.survivorbird.AndroidLauncher
