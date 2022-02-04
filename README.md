@@ -1,2 +1,2 @@
 # SurvivorBird
- Survivor game for android
+ SurvivorBird game for android
